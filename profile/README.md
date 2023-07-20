@@ -18,4 +18,5 @@ We also hope that the EXPLORE scientific apps serve as starting points or inspir
 ## Funding
 
 This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 101004214.  
-<img src='logoEU.jpg' height='100' />  
+<img src='https://github.com/explore-platform/.github/blob/main/logoEU.jpg' height='100' />  
+
