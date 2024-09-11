@@ -1,4 +1,4 @@
-<img src='profile/Explore_Logo_Box_Standard.png' height='100' />
+<img src='Explore_Logo_Box_Standard.png' height='100' />
 
 ## EXPLORE - Innovative Scientific Data Exploration and Exploitation Applications for Space Sciences
 
@@ -18,4 +18,4 @@ We also hope that the EXPLORE scientific apps serve as starting points or inspir
 ## Funding
 
 This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 101004214.  
-<img src='profile/logoEU.jpg' height='100' />  
+<img src='logoEU.jpg' height='100' />  
